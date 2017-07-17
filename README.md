@@ -2,6 +2,7 @@ The purpose of this application is to keep track of the hidden stats of your pok
 
 The Pokesorter calculates the actual stats from the values you provide it, and can save files that are loaded later.
 
+NOTE: This was something I made in my free time during my first CS class in high school. I've not since maintained or even looked through the code at length to see if it's acceptable.
+
 [1]:http://www.serebii.net/games/ivs.shtml
 [2]:http://www.serebii.net/games/evs.shtml
-
